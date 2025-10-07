@@ -1,0 +1,76 @@
+===============================================
+FIRESTORE RULES - COPY & PASTE THIS EXACTLY
+===============================================
+
+STEP 1: Go to Firebase Console
+   → https://console.firebase.google.com
+
+STEP 2: Select your MedAssist project
+
+STEP 3: Click "Firestore Database" in the left menu
+
+STEP 4: Click "Rules" tab at the top
+
+STEP 5: DELETE EVERYTHING and paste this:
+
+-----------------------------------------------
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /{document=**} {
+      allow read, write: if true;
+    }
+  }
+}
+-----------------------------------------------
+
+ALTERNATIVE (if above doesn't work):
+
+-----------------------------------------------
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /{document=**} {
+      allow read, write;
+    }
+  }
+}
+-----------------------------------------------
+
+STEP 6: Click "Publish" button
+
+STEP 7: You should see "Rules published successfully"
+
+===============================================
+DONE! Your app should now work with Firebase
+===============================================
+
+These rules allow:
+✅ Anyone can read any document
+✅ Anyone can write any document
+✅ Perfect for testing and demos
+✅ No authentication required
+
+⚠️ WARNING: These are TEST rules only!
+For production, use more restrictive rules.
+
+===============================================
+VERIFY IT WORKED
+===============================================
+
+After publishing rules, check your app:
+
+1. Open the app
+2. Sign in (Google or Guest)
+3. Go to Articles tab
+4. Should load articles from Firestore
+5. Check logs:
+   ✅ "Fetched X articles from Firestore"
+   ✅ No "Permission denied" errors
+
+If still having issues:
+→ Check TROUBLESHOOTING.md
+→ Make sure google-services.json is in app/ folder
+→ Run: ./gradlew clean && ./gradlew assembleDebug
+
+===============================================
+

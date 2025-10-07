@@ -1,0 +1,1025 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:2:1-71:12
+INJECTED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:2:1-71:12
+INJECTED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:2:1-71:12
+INJECTED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:2:1-71:12
+MERGED from [androidx.databinding:viewbinding:7.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/167dc8dd4e451f13c61f51a28a77a863/transformed/viewbinding-7.1.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.2] /Users/talhahthokan/.gradle/caches/transforms-3/cb477c168d9139a830b7d7098dd8bfdf/transformed/navigation-fragment-ktx-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.4.2] /Users/talhahthokan/.gradle/caches/transforms-3/097ae68911592210435f2d393afabf05/transformed/navigation-fragment-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /Users/talhahthokan/.gradle/caches/transforms-3/0f2cf19a8dbb47e6ea8631684966ddae/transformed/fragment-ktx-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.2] /Users/talhahthokan/.gradle/caches/transforms-3/e5c4661d80aefc62a8518969cbff7e07/transformed/navigation-ui-ktx-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.2] /Users/talhahthokan/.gradle/caches/transforms-3/2dc8af3bdf1afdc5b70bb0f89cc5cdf6/transformed/navigation-runtime-ktx-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.4.2] /Users/talhahthokan/.gradle/caches/transforms-3/c209076206968abf65aa7b322114c7c9/transformed/navigation-ui-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.4.2] /Users/talhahthokan/.gradle/caches/transforms-3/f56bdfc58990f00b8eb0509a499da1b8/transformed/navigation-runtime-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/talhahthokan/.gradle/caches/transforms-3/a43f4c350a07ec34447eff55d4eeeebd/transformed/activity-ktx-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.2] /Users/talhahthokan/.gradle/caches/transforms-3/4cf11c09ce47b7569fcebd15328d74bd/transformed/navigation-common-ktx-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.4.2] /Users/talhahthokan/.gradle/caches/transforms-3/68b1d9b250dd382792a451f5b74941ad/transformed/navigation-common-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1] /Users/talhahthokan/.gradle/caches/transforms-3/dbf45660b46b42fb74ccf4a113d2b693/transformed/lifecycle-viewmodel-ktx-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/talhahthokan/.gradle/caches/transforms-3/4ba9b9b5830b5f490cc930b9b35ca4aa/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/16870093591d0e127708c223a033822a/transformed/firebase-auth-ktx-21.0.3/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:17:1-73:12
+MERGED from [androidx.browser:browser:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/251eebfe24329e309a0357fae037e1c5/transformed/browser-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/564ec6e5100275e0d1f6be81007a62ae/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/talhahthokan/.gradle/caches/transforms-3/363421f58dc36df52a7c2a93c5b38d44/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/8c861836347430e458f6139fd6f63c9f/transformed/window-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.1] /Users/talhahthokan/.gradle/caches/transforms-3/e1d35036e71f0679de314993894fa2c8/transformed/lifecycle-livedata-ktx-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.5.0] /Users/talhahthokan/.gradle/caches/transforms-3/d654600e2ec10cbc5b01adea85621fc0/transformed/material-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/talhahthokan/.gradle/caches/transforms-3/db6786d011a5d97040b7f3700b750041/transformed/constraintlayout-2.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/talhahthokan/.gradle/caches/transforms-3/c2877b53cbc5f80d60e57fce66c2d527/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.13.2] /Users/talhahthokan/.gradle/caches/transforms-3/d3e184c5af5f0f5570ee8dec9fc5d626/transformed/glide-4.13.2/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-auth:20.2.0] /Users/talhahthokan/.gradle/caches/transforms-3/2318efee841753600a0c626386f2fa0c/transformed/play-services-auth-20.2.0/AndroidManifest.xml:17:1-40:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/275b96769715436fd0e8fece4efffb5f/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/ee398d61db55336b941968bbd753cf86/transformed/play-services-auth-api-phone-18.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/fbaa22d16188a1d7b36cadaf967e60a0/transformed/play-services-auth-base-18.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-storage-ktx:20.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/a9392a8a633728c6935d50a873aa5e41/transformed/firebase-storage-ktx-20.0.1/AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-storage:20.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/608c478d6aba58325c1ab0f8cbe47f3a/transformed/firebase-storage-20.0.1/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/2d79bf37119ddda995c7e03f9aeeb125/transformed/firebase-firestore-ktx-24.1.0/AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-firestore:24.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/2740f66239595b68fc45b0e35ce405ee/transformed/firebase-firestore-24.1.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-messaging-ktx:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/9d658b4c9f69cc630a974722a31171e2/transformed/firebase-messaging-ktx-23.0.2/AndroidManifest.xml:17:1-35:12
+MERGED from [com.google.firebase:firebase-messaging:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/bd4e2377bdf5edd93a2e81104f3efeaf/transformed/firebase-messaging-23.0.2/AndroidManifest.xml:17:1-61:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta05] /Users/talhahthokan/.gradle/caches/transforms-3/e46e22acd0d895178762eb967e75f56f/transformed/firebase-appcheck-interop-16.0.0-beta05/AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/051b72edbc02e9a0c219ad83dab158c6/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/194212b22c11f90a1af490d14b0c2483/transformed/play-services-safetynet-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/e6666944505d55d98511180b2581a4ef/transformed/play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-ktx:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/f8a1e1bf779b80e4eba5cb9b8876eb0f/transformed/firebase-analytics-ktx-20.1.2/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/e2b736a02672b6cf97ab1f117b8882a2/transformed/firebase-common-ktx-20.1.0/AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-analytics:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/b9c8577fa65752f0d6c924eb282c18da/transformed/firebase-analytics-20.1.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/d0335605765cea45dd9f712b54f9bc49/transformed/play-services-measurement-api-20.1.2/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/7dfc64ab2d3fa347a53ec88c434314d0/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-datatransport:18.1.1] /Users/talhahthokan/.gradle/caches/transforms-3/7a83598d4ef003835df0b537eae27dc8/transformed/firebase-datatransport-18.1.1/AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/23ea11a03dcf3936206e9ead6097fa2d/transformed/firebase-installations-17.0.1/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/69a9a84caa8fb744c8651979963118fe/transformed/firebase-common-20.1.0/AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/62485a4e42cc3e7e223062f9d51fba8b/transformed/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/72be2fd3cb4d8c63f2352910b435de21/transformed/firebase-iid-interop-17.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/718788271faa325b64be6b44fae3279b/transformed/firebase-installations-interop-17.0.1/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/5bc6bcade38d7d5884d9320d1d6d8a21/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-measurement:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91a1a6a3fa3f3f34821f2872866df4b0/transformed/play-services-measurement-20.1.2/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/5f44d0a9d46b822f48ea6fceeadb3d18/transformed/play-services-measurement-sdk-20.1.2/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/ecd4b30ea6b2908664e46d195ee70171/transformed/play-services-measurement-impl-20.1.2/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/b0d7869d19cc32c967447e5dcf6b0e4d/transformed/play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/6a81d139c0c9bf814bff31d88f9c4054/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/db19901a93729957146fa078aaaf0b73/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91115c50b897a43929fe217777296b61/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/32c818f5f8bdd0273d93f2858a040972/transformed/play-services-measurement-base-20.1.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/9f06110c51463f2bf151c8d1a9ff8816/transformed/play-services-basement-18.0.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.4.1] /Users/talhahthokan/.gradle/caches/transforms-3/8ae096ebe0ee300ea9fe49e894de5436/transformed/fragment-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/talhahthokan/.gradle/caches/transforms-3/5ae3411a8e18a4ce2b2008c0e11c5be4/transformed/core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/3191f095ff036695ef46ee4bda529426/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/talhahthokan/.gradle/caches/transforms-3/eb1596559313484121719aefa574a2ae/transformed/recyclerview-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/3f2f22223eb254b84769f79d70c96a78/transformed/transport-backend-cct-3.1.2/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/c236724b5ce594f965568cfb43a67846/transformed/transport-runtime-3.1.2/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/9396ebcc17b5aa9653806661d23ec08a/transformed/firebase-encoders-json-18.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/talhahthokan/.gradle/caches/transforms-3/e24b8f127221a87775cc68dddbc11b2b/transformed/activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/talhahthokan/.gradle/caches/transforms-3/68a96663f957d61068c593c105aafd56/transformed/appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/b3fb0804ccac1fc5e63d64a139c1163b/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/feaf8a4dfcffd5a6fe452e4926be1756/transformed/emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/talhahthokan/.gradle/caches/transforms-3/1afae922a8eb4306b86bf74750581ee0/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/9a26f1d68df80497fb2f0404c1105e05/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/e3d83ada02b36b47e441eff563c1dc44/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/76db079efd63a3f482d365aa207d7ee7/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/f15cc43b21c3337361abe6307afbc2a1/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/c137bc8f4dffd7b0cd9eec7330c2d3cb/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/063308fe16f64a477741bc61391fce4f/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/9a4dddd9784c1ed7288ff58feeeaf4d2/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/8755d2b2a3a43f1b1fd8e0b8228e67a8/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] /Users/talhahthokan/.gradle/caches/transforms-3/b13ed8d3c749f7204ef8d9f764d7a63b/transformed/transition-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/a8b6c51a0198d9552ef5e59aefa9e7fe/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/ea82d1ee8fe08905f3bc2aea191b0c23/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /Users/talhahthokan/.gradle/caches/transforms-3/bad35d3f020da1c71c15f5a3b5baf7b3/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/488c2d982358cc8f6caefee8deae708c/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/05509dbc54813de7a1a52bc04195d31b/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/talhahthokan/.gradle/caches/transforms-3/4145c61f3db605c71a7e49bcf4ddf3dd/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/be6c2f8af562d35de6214a76040613da/transformed/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.1] /Users/talhahthokan/.gradle/caches/transforms-3/838b8d9d11f3f934367b03fbf164e43e/transformed/lifecycle-viewmodel-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] /Users/talhahthokan/.gradle/caches/transforms-3/f5379e87936c517827c1a51e96050d85/transformed/gifdecoder-4.13.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/talhahthokan/.gradle/caches/transforms-3/3765d886069d4b48d2f509eae4fb1570/transformed/exifinterface-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/talhahthokan/.gradle/caches/transforms-3/679cda644df80ead3d8adc8fa2366496/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/eff2b89b3291381e8561c8012dceaeab/transformed/startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/4a6a5cb25c59d2d2be2af88d8a0f2439/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/5f8140b02933e43146b2acc583d0aae9/transformed/firebase-components-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/talhahthokan/.gradle/caches/transforms-3/9b7adbaf339b00b2e787c54f9f1f05ce/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.1] /Users/talhahthokan/.gradle/caches/transforms-3/173fd465fbdac04bb931832c7c98e362/transformed/lifecycle-livedata-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.1] /Users/talhahthokan/.gradle/caches/transforms-3/432171e79e9de7b97dd812ee011d356b/transformed/lifecycle-livedata-core-ktx-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.1] /Users/talhahthokan/.gradle/caches/transforms-3/7c05fd71d4b0b075637410c58ac4cd2a/transformed/lifecycle-livedata-core-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/talhahthokan/.gradle/caches/transforms-3/fd8ba1b90d551d5e6048b4b4cc39cbf3/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/178b9a4615f5e84dbe57aa442d0b540f/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/055cdacb8ef326a4b137c5853a183033/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/b34f937263b8a09c7841a044bdb58692/transformed/transport-api-3.0.0/AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/3c0376ef44d6a2d013b621ebdb8bda73/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/14744bd2d88e45e3d2bb92ea852f3b2f/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/d084fa1ea6e40abcca7c1c5e3b677753/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/8bef877e3e27fd42439335a6395084dc/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [io.grpc:grpc-android:1.44.1] /Users/talhahthokan/.gradle/caches/transforms-3/0987e0aee95b6a5b38052ec562cdd7aa/transformed/grpc-android-1.44.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/e2d3f06e2a1f0c5991011d8de1c05bb6/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:2:1-71:12
+INJECTED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:2:1-71:12
+INJECTED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:2:1-71:12
+	package
+		INJECTED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:2:1-71:12
+		INJECTED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:2:1-71:12
+		INJECTED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:2:1-71:12
+		INJECTED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-storage:20.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/608c478d6aba58325c1ab0f8cbe47f3a/transformed/firebase-storage-20.0.1/AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:20.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/608c478d6aba58325c1ab0f8cbe47f3a/transformed/firebase-storage-20.0.1/AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/2740f66239595b68fc45b0e35ce405ee/transformed/firebase-firestore-24.1.0/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/2740f66239595b68fc45b0e35ce405ee/transformed/firebase-firestore-24.1.0/AndroidManifest.xml:14:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/d0335605765cea45dd9f712b54f9bc49/transformed/play-services-measurement-api-20.1.2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/d0335605765cea45dd9f712b54f9bc49/transformed/play-services-measurement-api-20.1.2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/23ea11a03dcf3936206e9ead6097fa2d/transformed/firebase-installations-17.0.1/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/23ea11a03dcf3936206e9ead6097fa2d/transformed/firebase-installations-17.0.1/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/62485a4e42cc3e7e223062f9d51fba8b/transformed/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/62485a4e42cc3e7e223062f9d51fba8b/transformed/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91a1a6a3fa3f3f34821f2872866df4b0/transformed/play-services-measurement-20.1.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91a1a6a3fa3f3f34821f2872866df4b0/transformed/play-services-measurement-20.1.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/ecd4b30ea6b2908664e46d195ee70171/transformed/play-services-measurement-impl-20.1.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/ecd4b30ea6b2908664e46d195ee70171/transformed/play-services-measurement-impl-20.1.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91115c50b897a43929fe217777296b61/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91115c50b897a43929fe217777296b61/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/3f2f22223eb254b84769f79d70c96a78/transformed/transport-backend-cct-3.1.2/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/3f2f22223eb254b84769f79d70c96a78/transformed/transport-backend-cct-3.1.2/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-storage:20.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/608c478d6aba58325c1ab0f8cbe47f3a/transformed/firebase-storage-20.0.1/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:20.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/608c478d6aba58325c1ab0f8cbe47f3a/transformed/firebase-storage-20.0.1/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/2740f66239595b68fc45b0e35ce405ee/transformed/firebase-firestore-24.1.0/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/2740f66239595b68fc45b0e35ce405ee/transformed/firebase-firestore-24.1.0/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/bd4e2377bdf5edd93a2e81104f3efeaf/transformed/firebase-messaging-23.0.2/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/bd4e2377bdf5edd93a2e81104f3efeaf/transformed/firebase-messaging-23.0.2/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/d0335605765cea45dd9f712b54f9bc49/transformed/play-services-measurement-api-20.1.2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/d0335605765cea45dd9f712b54f9bc49/transformed/play-services-measurement-api-20.1.2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/23ea11a03dcf3936206e9ead6097fa2d/transformed/firebase-installations-17.0.1/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/23ea11a03dcf3936206e9ead6097fa2d/transformed/firebase-installations-17.0.1/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/62485a4e42cc3e7e223062f9d51fba8b/transformed/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/62485a4e42cc3e7e223062f9d51fba8b/transformed/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91a1a6a3fa3f3f34821f2872866df4b0/transformed/play-services-measurement-20.1.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91a1a6a3fa3f3f34821f2872866df4b0/transformed/play-services-measurement-20.1.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/ecd4b30ea6b2908664e46d195ee70171/transformed/play-services-measurement-impl-20.1.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/ecd4b30ea6b2908664e46d195ee70171/transformed/play-services-measurement-impl-20.1.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91115c50b897a43929fe217777296b61/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91115c50b897a43929fe217777296b61/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/3f2f22223eb254b84769f79d70c96a78/transformed/transport-backend-cct-3.1.2/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/3f2f22223eb254b84769f79d70c96a78/transformed/transport-backend-cct-3.1.2/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/c236724b5ce594f965568cfb43a67846/transformed/transport-runtime-3.1.2/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/c236724b5ce594f965568cfb43a67846/transformed/transport-runtime-3.1.2/AndroidManifest.xml:22:5-79
+MERGED from [io.grpc:grpc-android:1.44.1] /Users/talhahthokan/.gradle/caches/transforms-3/0987e0aee95b6a5b38052ec562cdd7aa/transformed/grpc-android-1.44.1/AndroidManifest.xml:9:5-79
+MERGED from [io.grpc:grpc-android:1.44.1] /Users/talhahthokan/.gradle/caches/transforms-3/0987e0aee95b6a5b38052ec562cdd7aa/transformed/grpc-android-1.44.1/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:7:22-76
+application
+ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:9:5-69:19
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/16870093591d0e127708c223a033822a/transformed/firebase-auth-ktx-21.0.3/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/16870093591d0e127708c223a033822a/transformed/firebase-auth-ktx-21.0.3/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:26:5-71:19
+MERGED from [androidx.window:window:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/8c861836347430e458f6139fd6f63c9f/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/8c861836347430e458f6139fd6f63c9f/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.material:material:1.5.0] /Users/talhahthokan/.gradle/caches/transforms-3/d654600e2ec10cbc5b01adea85621fc0/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] /Users/talhahthokan/.gradle/caches/transforms-3/d654600e2ec10cbc5b01adea85621fc0/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/talhahthokan/.gradle/caches/transforms-3/db6786d011a5d97040b7f3700b750041/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/talhahthokan/.gradle/caches/transforms-3/db6786d011a5d97040b7f3700b750041/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.13.2] /Users/talhahthokan/.gradle/caches/transforms-3/d3e184c5af5f0f5570ee8dec9fc5d626/transformed/glide-4.13.2/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.13.2] /Users/talhahthokan/.gradle/caches/transforms-3/d3e184c5af5f0f5570ee8dec9fc5d626/transformed/glide-4.13.2/AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-auth:20.2.0] /Users/talhahthokan/.gradle/caches/transforms-3/2318efee841753600a0c626386f2fa0c/transformed/play-services-auth-20.2.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.2.0] /Users/talhahthokan/.gradle/caches/transforms-3/2318efee841753600a0c626386f2fa0c/transformed/play-services-auth-20.2.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.firebase:firebase-storage-ktx:20.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/a9392a8a633728c6935d50a873aa5e41/transformed/firebase-storage-ktx-20.0.1/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-storage-ktx:20.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/a9392a8a633728c6935d50a873aa5e41/transformed/firebase-storage-ktx-20.0.1/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-storage:20.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/608c478d6aba58325c1ab0f8cbe47f3a/transformed/firebase-storage-20.0.1/AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-storage:20.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/608c478d6aba58325c1ab0f8cbe47f3a/transformed/firebase-storage-20.0.1/AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/2d79bf37119ddda995c7e03f9aeeb125/transformed/firebase-firestore-ktx-24.1.0/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/2d79bf37119ddda995c7e03f9aeeb125/transformed/firebase-firestore-ktx-24.1.0/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-firestore:24.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/2740f66239595b68fc45b0e35ce405ee/transformed/firebase-firestore-24.1.0/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:24.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/2740f66239595b68fc45b0e35ce405ee/transformed/firebase-firestore-24.1.0/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-messaging-ktx:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/9d658b4c9f69cc630a974722a31171e2/transformed/firebase-messaging-ktx-23.0.2/AndroidManifest.xml:25:5-33:19
+MERGED from [com.google.firebase:firebase-messaging-ktx:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/9d658b4c9f69cc630a974722a31171e2/transformed/firebase-messaging-ktx-23.0.2/AndroidManifest.xml:25:5-33:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/bd4e2377bdf5edd93a2e81104f3efeaf/transformed/firebase-messaging-23.0.2/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/bd4e2377bdf5edd93a2e81104f3efeaf/transformed/firebase-messaging-23.0.2/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta05] /Users/talhahthokan/.gradle/caches/transforms-3/e46e22acd0d895178762eb967e75f56f/transformed/firebase-appcheck-interop-16.0.0-beta05/AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta05] /Users/talhahthokan/.gradle/caches/transforms-3/e46e22acd0d895178762eb967e75f56f/transformed/firebase-appcheck-interop-16.0.0-beta05/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/194212b22c11f90a1af490d14b0c2483/transformed/play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/194212b22c11f90a1af490d14b0c2483/transformed/play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/e6666944505d55d98511180b2581a4ef/transformed/play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/e6666944505d55d98511180b2581a4ef/transformed/play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/f8a1e1bf779b80e4eba5cb9b8876eb0f/transformed/firebase-analytics-ktx-20.1.2/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/f8a1e1bf779b80e4eba5cb9b8876eb0f/transformed/firebase-analytics-ktx-20.1.2/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/e2b736a02672b6cf97ab1f117b8882a2/transformed/firebase-common-ktx-20.1.0/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/e2b736a02672b6cf97ab1f117b8882a2/transformed/firebase-common-ktx-20.1.0/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-analytics:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/b9c8577fa65752f0d6c924eb282c18da/transformed/firebase-analytics-20.1.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/b9c8577fa65752f0d6c924eb282c18da/transformed/firebase-analytics-20.1.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/d0335605765cea45dd9f712b54f9bc49/transformed/play-services-measurement-api-20.1.2/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/d0335605765cea45dd9f712b54f9bc49/transformed/play-services-measurement-api-20.1.2/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/7dfc64ab2d3fa347a53ec88c434314d0/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/7dfc64ab2d3fa347a53ec88c434314d0/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.1] /Users/talhahthokan/.gradle/caches/transforms-3/7a83598d4ef003835df0b537eae27dc8/transformed/firebase-datatransport-18.1.1/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.1] /Users/talhahthokan/.gradle/caches/transforms-3/7a83598d4ef003835df0b537eae27dc8/transformed/firebase-datatransport-18.1.1/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/23ea11a03dcf3936206e9ead6097fa2d/transformed/firebase-installations-17.0.1/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/23ea11a03dcf3936206e9ead6097fa2d/transformed/firebase-installations-17.0.1/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/69a9a84caa8fb744c8651979963118fe/transformed/firebase-common-20.1.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/69a9a84caa8fb744c8651979963118fe/transformed/firebase-common-20.1.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/72be2fd3cb4d8c63f2352910b435de21/transformed/firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/72be2fd3cb4d8c63f2352910b435de21/transformed/firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/5bc6bcade38d7d5884d9320d1d6d8a21/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/5bc6bcade38d7d5884d9320d1d6d8a21/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-measurement:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91a1a6a3fa3f3f34821f2872866df4b0/transformed/play-services-measurement-20.1.2/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91a1a6a3fa3f3f34821f2872866df4b0/transformed/play-services-measurement-20.1.2/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/5f44d0a9d46b822f48ea6fceeadb3d18/transformed/play-services-measurement-sdk-20.1.2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/5f44d0a9d46b822f48ea6fceeadb3d18/transformed/play-services-measurement-sdk-20.1.2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/ecd4b30ea6b2908664e46d195ee70171/transformed/play-services-measurement-impl-20.1.2/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/ecd4b30ea6b2908664e46d195ee70171/transformed/play-services-measurement-impl-20.1.2/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/b0d7869d19cc32c967447e5dcf6b0e4d/transformed/play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/b0d7869d19cc32c967447e5dcf6b0e4d/transformed/play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/6a81d139c0c9bf814bff31d88f9c4054/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/6a81d139c0c9bf814bff31d88f9c4054/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/db19901a93729957146fa078aaaf0b73/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/db19901a93729957146fa078aaaf0b73/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/32c818f5f8bdd0273d93f2858a040972/transformed/play-services-measurement-base-20.1.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/32c818f5f8bdd0273d93f2858a040972/transformed/play-services-measurement-base-20.1.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/9f06110c51463f2bf151c8d1a9ff8816/transformed/play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/9f06110c51463f2bf151c8d1a9ff8816/transformed/play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/3f2f22223eb254b84769f79d70c96a78/transformed/transport-backend-cct-3.1.2/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/3f2f22223eb254b84769f79d70c96a78/transformed/transport-backend-cct-3.1.2/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/c236724b5ce594f965568cfb43a67846/transformed/transport-runtime-3.1.2/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/c236724b5ce594f965568cfb43a67846/transformed/transport-runtime-3.1.2/AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/feaf8a4dfcffd5a6fe452e4926be1756/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/feaf8a4dfcffd5a6fe452e4926be1756/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /Users/talhahthokan/.gradle/caches/transforms-3/bad35d3f020da1c71c15f5a3b5baf7b3/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/talhahthokan/.gradle/caches/transforms-3/bad35d3f020da1c71c15f5a3b5baf7b3/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] /Users/talhahthokan/.gradle/caches/transforms-3/f5379e87936c517827c1a51e96050d85/transformed/gifdecoder-4.13.2/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] /Users/talhahthokan/.gradle/caches/transforms-3/f5379e87936c517827c1a51e96050d85/transformed/gifdecoder-4.13.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/talhahthokan/.gradle/caches/transforms-3/679cda644df80ead3d8adc8fa2366496/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/talhahthokan/.gradle/caches/transforms-3/679cda644df80ead3d8adc8fa2366496/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/eff2b89b3291381e8561c8012dceaeab/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/eff2b89b3291381e8561c8012dceaeab/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/talhahthokan/.gradle/caches/transforms-3/9b7adbaf339b00b2e787c54f9f1f05ce/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/talhahthokan/.gradle/caches/transforms-3/9b7adbaf339b00b2e787c54f9f1f05ce/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/talhahthokan/.gradle/caches/transforms-3/bad35d3f020da1c71c15f5a3b5baf7b3/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:13:9-41
+	android:fullBackupContent
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:12:9-54
+	tools:targetApi
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:16:9-29
+	android:allowBackup
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:15:9-47
+	android:dataExtractionRules
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:11:9-65
+activity#.MainActivity
+ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:18:9-27:20
+	android:label
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:21:13-45
+	android:exported
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:20:13-36
+	android:theme
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:22:13-51
+	android:name
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:19:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:25:27-74
+activity#.ui.screens.auth.LoginActivity
+ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:29:9-32:54
+	android:exported
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:31:13-37
+	android:theme
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:32:13-51
+	android:name
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:30:13-58
+activity#.ui.screens.articles.ArticleDetailActivity
+ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:34:9-37:54
+	android:exported
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:36:13-37
+	android:theme
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:37:13-51
+	android:name
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:35:13-70
+activity#.ui.screens.booking.BookingActivity
+ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:39:9-42:54
+	android:exported
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:41:13-37
+	android:theme
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:42:13-51
+	android:name
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:40:13-63
+activity#.ui.screens.booking.BookingConfirmationActivity
+ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:44:9-47:54
+	android:exported
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:46:13-37
+	android:theme
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:47:13-51
+	android:name
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:45:13-75
+activity#.ui.screens.settings.SettingsActivity
+ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:49:9-52:54
+	android:exported
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:51:13-37
+	android:theme
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:52:13-51
+	android:name
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:50:13-65
+activity#.data.firebase.FirestoreDataSeederActivity
+ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:55:9-59:45
+	android:label
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:59:13-42
+	android:exported
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:57:13-37
+	android:theme
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:58:13-51
+	android:name
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:56:13-70
+service#.services.MedAssistFirebaseMessagingService
+ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:62:9-68:19
+	android:exported
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:64:13-37
+	android:name
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:63:13-71
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:65:13-67:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:66:17-78
+	android:name
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:66:25-75
+uses-sdk
+INJECTED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml
+INJECTED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/167dc8dd4e451f13c61f51a28a77a863/transformed/viewbinding-7.1.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/167dc8dd4e451f13c61f51a28a77a863/transformed/viewbinding-7.1.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.2] /Users/talhahthokan/.gradle/caches/transforms-3/cb477c168d9139a830b7d7098dd8bfdf/transformed/navigation-fragment-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.2] /Users/talhahthokan/.gradle/caches/transforms-3/cb477c168d9139a830b7d7098dd8bfdf/transformed/navigation-fragment-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.2] /Users/talhahthokan/.gradle/caches/transforms-3/097ae68911592210435f2d393afabf05/transformed/navigation-fragment-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.2] /Users/talhahthokan/.gradle/caches/transforms-3/097ae68911592210435f2d393afabf05/transformed/navigation-fragment-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /Users/talhahthokan/.gradle/caches/transforms-3/0f2cf19a8dbb47e6ea8631684966ddae/transformed/fragment-ktx-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /Users/talhahthokan/.gradle/caches/transforms-3/0f2cf19a8dbb47e6ea8631684966ddae/transformed/fragment-ktx-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.2] /Users/talhahthokan/.gradle/caches/transforms-3/e5c4661d80aefc62a8518969cbff7e07/transformed/navigation-ui-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.2] /Users/talhahthokan/.gradle/caches/transforms-3/e5c4661d80aefc62a8518969cbff7e07/transformed/navigation-ui-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.2] /Users/talhahthokan/.gradle/caches/transforms-3/2dc8af3bdf1afdc5b70bb0f89cc5cdf6/transformed/navigation-runtime-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.2] /Users/talhahthokan/.gradle/caches/transforms-3/2dc8af3bdf1afdc5b70bb0f89cc5cdf6/transformed/navigation-runtime-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.4.2] /Users/talhahthokan/.gradle/caches/transforms-3/c209076206968abf65aa7b322114c7c9/transformed/navigation-ui-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.4.2] /Users/talhahthokan/.gradle/caches/transforms-3/c209076206968abf65aa7b322114c7c9/transformed/navigation-ui-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.2] /Users/talhahthokan/.gradle/caches/transforms-3/f56bdfc58990f00b8eb0509a499da1b8/transformed/navigation-runtime-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.2] /Users/talhahthokan/.gradle/caches/transforms-3/f56bdfc58990f00b8eb0509a499da1b8/transformed/navigation-runtime-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/talhahthokan/.gradle/caches/transforms-3/a43f4c350a07ec34447eff55d4eeeebd/transformed/activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/talhahthokan/.gradle/caches/transforms-3/a43f4c350a07ec34447eff55d4eeeebd/transformed/activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.2] /Users/talhahthokan/.gradle/caches/transforms-3/4cf11c09ce47b7569fcebd15328d74bd/transformed/navigation-common-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.2] /Users/talhahthokan/.gradle/caches/transforms-3/4cf11c09ce47b7569fcebd15328d74bd/transformed/navigation-common-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.2] /Users/talhahthokan/.gradle/caches/transforms-3/68b1d9b250dd382792a451f5b74941ad/transformed/navigation-common-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.2] /Users/talhahthokan/.gradle/caches/transforms-3/68b1d9b250dd382792a451f5b74941ad/transformed/navigation-common-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1] /Users/talhahthokan/.gradle/caches/transforms-3/dbf45660b46b42fb74ccf4a113d2b693/transformed/lifecycle-viewmodel-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1] /Users/talhahthokan/.gradle/caches/transforms-3/dbf45660b46b42fb74ccf4a113d2b693/transformed/lifecycle-viewmodel-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/talhahthokan/.gradle/caches/transforms-3/4ba9b9b5830b5f490cc930b9b35ca4aa/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/talhahthokan/.gradle/caches/transforms-3/4ba9b9b5830b5f490cc930b9b35ca4aa/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/16870093591d0e127708c223a033822a/transformed/firebase-auth-ktx-21.0.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/16870093591d0e127708c223a033822a/transformed/firebase-auth-ktx-21.0.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:21:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/251eebfe24329e309a0357fae037e1c5/transformed/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/251eebfe24329e309a0357fae037e1c5/transformed/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/564ec6e5100275e0d1f6be81007a62ae/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/564ec6e5100275e0d1f6be81007a62ae/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/talhahthokan/.gradle/caches/transforms-3/363421f58dc36df52a7c2a93c5b38d44/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/talhahthokan/.gradle/caches/transforms-3/363421f58dc36df52a7c2a93c5b38d44/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/8c861836347430e458f6139fd6f63c9f/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/8c861836347430e458f6139fd6f63c9f/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.1] /Users/talhahthokan/.gradle/caches/transforms-3/e1d35036e71f0679de314993894fa2c8/transformed/lifecycle-livedata-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.1] /Users/talhahthokan/.gradle/caches/transforms-3/e1d35036e71f0679de314993894fa2c8/transformed/lifecycle-livedata-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.5.0] /Users/talhahthokan/.gradle/caches/transforms-3/d654600e2ec10cbc5b01adea85621fc0/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] /Users/talhahthokan/.gradle/caches/transforms-3/d654600e2ec10cbc5b01adea85621fc0/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/talhahthokan/.gradle/caches/transforms-3/db6786d011a5d97040b7f3700b750041/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/talhahthokan/.gradle/caches/transforms-3/db6786d011a5d97040b7f3700b750041/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/talhahthokan/.gradle/caches/transforms-3/c2877b53cbc5f80d60e57fce66c2d527/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/talhahthokan/.gradle/caches/transforms-3/c2877b53cbc5f80d60e57fce66c2d527/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.13.2] /Users/talhahthokan/.gradle/caches/transforms-3/d3e184c5af5f0f5570ee8dec9fc5d626/transformed/glide-4.13.2/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.13.2] /Users/talhahthokan/.gradle/caches/transforms-3/d3e184c5af5f0f5570ee8dec9fc5d626/transformed/glide-4.13.2/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-auth:20.2.0] /Users/talhahthokan/.gradle/caches/transforms-3/2318efee841753600a0c626386f2fa0c/transformed/play-services-auth-20.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.2.0] /Users/talhahthokan/.gradle/caches/transforms-3/2318efee841753600a0c626386f2fa0c/transformed/play-services-auth-20.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/275b96769715436fd0e8fece4efffb5f/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/275b96769715436fd0e8fece4efffb5f/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/ee398d61db55336b941968bbd753cf86/transformed/play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/ee398d61db55336b941968bbd753cf86/transformed/play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/fbaa22d16188a1d7b36cadaf967e60a0/transformed/play-services-auth-base-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/fbaa22d16188a1d7b36cadaf967e60a0/transformed/play-services-auth-base-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage-ktx:20.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/a9392a8a633728c6935d50a873aa5e41/transformed/firebase-storage-ktx-20.0.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-storage-ktx:20.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/a9392a8a633728c6935d50a873aa5e41/transformed/firebase-storage-ktx-20.0.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-storage:20.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/608c478d6aba58325c1ab0f8cbe47f3a/transformed/firebase-storage-20.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:20.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/608c478d6aba58325c1ab0f8cbe47f3a/transformed/firebase-storage-20.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/2d79bf37119ddda995c7e03f9aeeb125/transformed/firebase-firestore-ktx-24.1.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/2d79bf37119ddda995c7e03f9aeeb125/transformed/firebase-firestore-ktx-24.1.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-firestore:24.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/2740f66239595b68fc45b0e35ce405ee/transformed/firebase-firestore-24.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:24.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/2740f66239595b68fc45b0e35ce405ee/transformed/firebase-firestore-24.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-messaging-ktx:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/9d658b4c9f69cc630a974722a31171e2/transformed/firebase-messaging-ktx-23.0.2/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-messaging-ktx:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/9d658b4c9f69cc630a974722a31171e2/transformed/firebase-messaging-ktx-23.0.2/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-messaging:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/bd4e2377bdf5edd93a2e81104f3efeaf/transformed/firebase-messaging-23.0.2/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-messaging:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/bd4e2377bdf5edd93a2e81104f3efeaf/transformed/firebase-messaging-23.0.2/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta05] /Users/talhahthokan/.gradle/caches/transforms-3/e46e22acd0d895178762eb967e75f56f/transformed/firebase-appcheck-interop-16.0.0-beta05/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta05] /Users/talhahthokan/.gradle/caches/transforms-3/e46e22acd0d895178762eb967e75f56f/transformed/firebase-appcheck-interop-16.0.0-beta05/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/051b72edbc02e9a0c219ad83dab158c6/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/051b72edbc02e9a0c219ad83dab158c6/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/194212b22c11f90a1af490d14b0c2483/transformed/play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/194212b22c11f90a1af490d14b0c2483/transformed/play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/e6666944505d55d98511180b2581a4ef/transformed/play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/e6666944505d55d98511180b2581a4ef/transformed/play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-analytics-ktx:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/f8a1e1bf779b80e4eba5cb9b8876eb0f/transformed/firebase-analytics-ktx-20.1.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics-ktx:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/f8a1e1bf779b80e4eba5cb9b8876eb0f/transformed/firebase-analytics-ktx-20.1.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/e2b736a02672b6cf97ab1f117b8882a2/transformed/firebase-common-ktx-20.1.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/e2b736a02672b6cf97ab1f117b8882a2/transformed/firebase-common-ktx-20.1.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-analytics:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/b9c8577fa65752f0d6c924eb282c18da/transformed/firebase-analytics-20.1.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/b9c8577fa65752f0d6c924eb282c18da/transformed/firebase-analytics-20.1.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/d0335605765cea45dd9f712b54f9bc49/transformed/play-services-measurement-api-20.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/d0335605765cea45dd9f712b54f9bc49/transformed/play-services-measurement-api-20.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/7dfc64ab2d3fa347a53ec88c434314d0/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/7dfc64ab2d3fa347a53ec88c434314d0/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-datatransport:18.1.1] /Users/talhahthokan/.gradle/caches/transforms-3/7a83598d4ef003835df0b537eae27dc8/transformed/firebase-datatransport-18.1.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.1] /Users/talhahthokan/.gradle/caches/transforms-3/7a83598d4ef003835df0b537eae27dc8/transformed/firebase-datatransport-18.1.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/23ea11a03dcf3936206e9ead6097fa2d/transformed/firebase-installations-17.0.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/23ea11a03dcf3936206e9ead6097fa2d/transformed/firebase-installations-17.0.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/69a9a84caa8fb744c8651979963118fe/transformed/firebase-common-20.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/69a9a84caa8fb744c8651979963118fe/transformed/firebase-common-20.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/62485a4e42cc3e7e223062f9d51fba8b/transformed/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/62485a4e42cc3e7e223062f9d51fba8b/transformed/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/72be2fd3cb4d8c63f2352910b435de21/transformed/firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/72be2fd3cb4d8c63f2352910b435de21/transformed/firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/718788271faa325b64be6b44fae3279b/transformed/firebase-installations-interop-17.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/718788271faa325b64be6b44fae3279b/transformed/firebase-installations-interop-17.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/5bc6bcade38d7d5884d9320d1d6d8a21/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/5bc6bcade38d7d5884d9320d1d6d8a21/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-measurement:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91a1a6a3fa3f3f34821f2872866df4b0/transformed/play-services-measurement-20.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91a1a6a3fa3f3f34821f2872866df4b0/transformed/play-services-measurement-20.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/5f44d0a9d46b822f48ea6fceeadb3d18/transformed/play-services-measurement-sdk-20.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/5f44d0a9d46b822f48ea6fceeadb3d18/transformed/play-services-measurement-sdk-20.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/ecd4b30ea6b2908664e46d195ee70171/transformed/play-services-measurement-impl-20.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/ecd4b30ea6b2908664e46d195ee70171/transformed/play-services-measurement-impl-20.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/b0d7869d19cc32c967447e5dcf6b0e4d/transformed/play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/b0d7869d19cc32c967447e5dcf6b0e4d/transformed/play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/6a81d139c0c9bf814bff31d88f9c4054/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/6a81d139c0c9bf814bff31d88f9c4054/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/db19901a93729957146fa078aaaf0b73/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/db19901a93729957146fa078aaaf0b73/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91115c50b897a43929fe217777296b61/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91115c50b897a43929fe217777296b61/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/32c818f5f8bdd0273d93f2858a040972/transformed/play-services-measurement-base-20.1.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/32c818f5f8bdd0273d93f2858a040972/transformed/play-services-measurement-base-20.1.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/9f06110c51463f2bf151c8d1a9ff8816/transformed/play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/9f06110c51463f2bf151c8d1a9ff8816/transformed/play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.4.1] /Users/talhahthokan/.gradle/caches/transforms-3/8ae096ebe0ee300ea9fe49e894de5436/transformed/fragment-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] /Users/talhahthokan/.gradle/caches/transforms-3/8ae096ebe0ee300ea9fe49e894de5436/transformed/fragment-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/talhahthokan/.gradle/caches/transforms-3/5ae3411a8e18a4ce2b2008c0e11c5be4/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/talhahthokan/.gradle/caches/transforms-3/5ae3411a8e18a4ce2b2008c0e11c5be4/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/3191f095ff036695ef46ee4bda529426/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/3191f095ff036695ef46ee4bda529426/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/talhahthokan/.gradle/caches/transforms-3/eb1596559313484121719aefa574a2ae/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/talhahthokan/.gradle/caches/transforms-3/eb1596559313484121719aefa574a2ae/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/3f2f22223eb254b84769f79d70c96a78/transformed/transport-backend-cct-3.1.2/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/3f2f22223eb254b84769f79d70c96a78/transformed/transport-backend-cct-3.1.2/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/c236724b5ce594f965568cfb43a67846/transformed/transport-runtime-3.1.2/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/c236724b5ce594f965568cfb43a67846/transformed/transport-runtime-3.1.2/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/9396ebcc17b5aa9653806661d23ec08a/transformed/firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/9396ebcc17b5aa9653806661d23ec08a/transformed/firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/talhahthokan/.gradle/caches/transforms-3/e24b8f127221a87775cc68dddbc11b2b/transformed/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/talhahthokan/.gradle/caches/transforms-3/e24b8f127221a87775cc68dddbc11b2b/transformed/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/talhahthokan/.gradle/caches/transforms-3/68a96663f957d61068c593c105aafd56/transformed/appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/talhahthokan/.gradle/caches/transforms-3/68a96663f957d61068c593c105aafd56/transformed/appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/b3fb0804ccac1fc5e63d64a139c1163b/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/b3fb0804ccac1fc5e63d64a139c1163b/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/feaf8a4dfcffd5a6fe452e4926be1756/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/feaf8a4dfcffd5a6fe452e4926be1756/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/talhahthokan/.gradle/caches/transforms-3/1afae922a8eb4306b86bf74750581ee0/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/talhahthokan/.gradle/caches/transforms-3/1afae922a8eb4306b86bf74750581ee0/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/9a26f1d68df80497fb2f0404c1105e05/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/9a26f1d68df80497fb2f0404c1105e05/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/e3d83ada02b36b47e441eff563c1dc44/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/e3d83ada02b36b47e441eff563c1dc44/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/76db079efd63a3f482d365aa207d7ee7/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/76db079efd63a3f482d365aa207d7ee7/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/f15cc43b21c3337361abe6307afbc2a1/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/f15cc43b21c3337361abe6307afbc2a1/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/c137bc8f4dffd7b0cd9eec7330c2d3cb/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/c137bc8f4dffd7b0cd9eec7330c2d3cb/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/063308fe16f64a477741bc61391fce4f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/063308fe16f64a477741bc61391fce4f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/9a4dddd9784c1ed7288ff58feeeaf4d2/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/9a4dddd9784c1ed7288ff58feeeaf4d2/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/8755d2b2a3a43f1b1fd8e0b8228e67a8/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/8755d2b2a3a43f1b1fd8e0b8228e67a8/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/talhahthokan/.gradle/caches/transforms-3/b13ed8d3c749f7204ef8d9f764d7a63b/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/talhahthokan/.gradle/caches/transforms-3/b13ed8d3c749f7204ef8d9f764d7a63b/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/a8b6c51a0198d9552ef5e59aefa9e7fe/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/a8b6c51a0198d9552ef5e59aefa9e7fe/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/ea82d1ee8fe08905f3bc2aea191b0c23/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/ea82d1ee8fe08905f3bc2aea191b0c23/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /Users/talhahthokan/.gradle/caches/transforms-3/bad35d3f020da1c71c15f5a3b5baf7b3/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/talhahthokan/.gradle/caches/transforms-3/bad35d3f020da1c71c15f5a3b5baf7b3/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/488c2d982358cc8f6caefee8deae708c/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/488c2d982358cc8f6caefee8deae708c/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/05509dbc54813de7a1a52bc04195d31b/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/05509dbc54813de7a1a52bc04195d31b/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/talhahthokan/.gradle/caches/transforms-3/4145c61f3db605c71a7e49bcf4ddf3dd/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/talhahthokan/.gradle/caches/transforms-3/4145c61f3db605c71a7e49bcf4ddf3dd/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/be6c2f8af562d35de6214a76040613da/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/be6c2f8af562d35de6214a76040613da/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.1] /Users/talhahthokan/.gradle/caches/transforms-3/838b8d9d11f3f934367b03fbf164e43e/transformed/lifecycle-viewmodel-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.1] /Users/talhahthokan/.gradle/caches/transforms-3/838b8d9d11f3f934367b03fbf164e43e/transformed/lifecycle-viewmodel-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] /Users/talhahthokan/.gradle/caches/transforms-3/f5379e87936c517827c1a51e96050d85/transformed/gifdecoder-4.13.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] /Users/talhahthokan/.gradle/caches/transforms-3/f5379e87936c517827c1a51e96050d85/transformed/gifdecoder-4.13.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/talhahthokan/.gradle/caches/transforms-3/3765d886069d4b48d2f509eae4fb1570/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/talhahthokan/.gradle/caches/transforms-3/3765d886069d4b48d2f509eae4fb1570/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/talhahthokan/.gradle/caches/transforms-3/679cda644df80ead3d8adc8fa2366496/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/talhahthokan/.gradle/caches/transforms-3/679cda644df80ead3d8adc8fa2366496/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/eff2b89b3291381e8561c8012dceaeab/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/eff2b89b3291381e8561c8012dceaeab/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/4a6a5cb25c59d2d2be2af88d8a0f2439/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/4a6a5cb25c59d2d2be2af88d8a0f2439/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/5f8140b02933e43146b2acc583d0aae9/transformed/firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/5f8140b02933e43146b2acc583d0aae9/transformed/firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/talhahthokan/.gradle/caches/transforms-3/9b7adbaf339b00b2e787c54f9f1f05ce/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/talhahthokan/.gradle/caches/transforms-3/9b7adbaf339b00b2e787c54f9f1f05ce/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.1] /Users/talhahthokan/.gradle/caches/transforms-3/173fd465fbdac04bb931832c7c98e362/transformed/lifecycle-livedata-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.1] /Users/talhahthokan/.gradle/caches/transforms-3/173fd465fbdac04bb931832c7c98e362/transformed/lifecycle-livedata-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.1] /Users/talhahthokan/.gradle/caches/transforms-3/432171e79e9de7b97dd812ee011d356b/transformed/lifecycle-livedata-core-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.1] /Users/talhahthokan/.gradle/caches/transforms-3/432171e79e9de7b97dd812ee011d356b/transformed/lifecycle-livedata-core-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.1] /Users/talhahthokan/.gradle/caches/transforms-3/7c05fd71d4b0b075637410c58ac4cd2a/transformed/lifecycle-livedata-core-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.1] /Users/talhahthokan/.gradle/caches/transforms-3/7c05fd71d4b0b075637410c58ac4cd2a/transformed/lifecycle-livedata-core-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/talhahthokan/.gradle/caches/transforms-3/fd8ba1b90d551d5e6048b4b4cc39cbf3/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/talhahthokan/.gradle/caches/transforms-3/fd8ba1b90d551d5e6048b4b4cc39cbf3/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/178b9a4615f5e84dbe57aa442d0b540f/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/178b9a4615f5e84dbe57aa442d0b540f/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/055cdacb8ef326a4b137c5853a183033/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/055cdacb8ef326a4b137c5853a183033/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/b34f937263b8a09c7841a044bdb58692/transformed/transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/b34f937263b8a09c7841a044bdb58692/transformed/transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/3c0376ef44d6a2d013b621ebdb8bda73/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/3c0376ef44d6a2d013b621ebdb8bda73/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/14744bd2d88e45e3d2bb92ea852f3b2f/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/14744bd2d88e45e3d2bb92ea852f3b2f/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/d084fa1ea6e40abcca7c1c5e3b677753/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/d084fa1ea6e40abcca7c1c5e3b677753/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/8bef877e3e27fd42439335a6395084dc/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/8bef877e3e27fd42439335a6395084dc/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [io.grpc:grpc-android:1.44.1] /Users/talhahthokan/.gradle/caches/transforms-3/0987e0aee95b6a5b38052ec562cdd7aa/transformed/grpc-android-1.44.1/AndroidManifest.xml:5:5-7:41
+MERGED from [io.grpc:grpc-android:1.44.1] /Users/talhahthokan/.gradle/caches/transforms-3/0987e0aee95b6a5b38052ec562cdd7aa/transformed/grpc-android-1.44.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/e2d3f06e2a1f0c5991011d8de1c05bb6/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/e2d3f06e2a1f0c5991011d8de1c05bb6/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml
+INJECTED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml
+activity#com.medassist.app.MainActivity
+ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:18:9-27:20
+	android:label
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:21:13-45
+	android:exported
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:20:13-36
+	android:theme
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:22:13-51
+	android:name
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:19:13-41
+activity#com.medassist.app.ui.screens.auth.LoginActivity
+ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:29:9-32:54
+	android:exported
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:31:13-37
+	android:theme
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:32:13-51
+	android:name
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:30:13-58
+activity#com.medassist.app.ui.screens.articles.ArticleDetailActivity
+ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:34:9-37:54
+	android:exported
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:36:13-37
+	android:theme
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:37:13-51
+	android:name
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:35:13-70
+activity#com.medassist.app.ui.screens.booking.BookingActivity
+ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:39:9-42:54
+	android:exported
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:41:13-37
+	android:theme
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:42:13-51
+	android:name
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:40:13-63
+activity#com.medassist.app.ui.screens.booking.BookingConfirmationActivity
+ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:44:9-47:54
+	android:exported
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:46:13-37
+	android:theme
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:47:13-51
+	android:name
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:45:13-75
+activity#com.medassist.app.ui.screens.settings.SettingsActivity
+ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:49:9-52:54
+	android:exported
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:51:13-37
+	android:theme
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:52:13-51
+	android:name
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:50:13-65
+activity#com.medassist.app.data.firebase.FirestoreDataSeederActivity
+ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:55:9-59:45
+	android:label
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:59:13-42
+	android:exported
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:57:13-37
+	android:theme
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:58:13-51
+	android:name
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:56:13-70
+service#com.medassist.app.services.MedAssistFirebaseMessagingService
+ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:62:9-68:19
+	android:exported
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:64:13-37
+	android:name
+		ADDED from /Users/talhahthokan/Desktop/BCAD/2025/Semester 2/PROG7314/PROG7314/2025/POE/ST10122437_PROG7314_POE_Part2_TalhahThokan/app/src/main/AndroidManifest.xml:63:13-71
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth-ktx:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/16870093591d0e127708c223a033822a/transformed/firebase-auth-ktx-21.0.3/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-storage-ktx:20.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/a9392a8a633728c6935d50a873aa5e41/transformed/firebase-storage-ktx-20.0.1/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-storage-ktx:20.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/a9392a8a633728c6935d50a873aa5e41/transformed/firebase-storage-ktx-20.0.1/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-storage:20.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/608c478d6aba58325c1ab0f8cbe47f3a/transformed/firebase-storage-20.0.1/AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-storage:20.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/608c478d6aba58325c1ab0f8cbe47f3a/transformed/firebase-storage-20.0.1/AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/2d79bf37119ddda995c7e03f9aeeb125/transformed/firebase-firestore-ktx-24.1.0/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/2d79bf37119ddda995c7e03f9aeeb125/transformed/firebase-firestore-ktx-24.1.0/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-firestore:24.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/2740f66239595b68fc45b0e35ce405ee/transformed/firebase-firestore-24.1.0/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:24.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/2740f66239595b68fc45b0e35ce405ee/transformed/firebase-firestore-24.1.0/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-messaging-ktx:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/9d658b4c9f69cc630a974722a31171e2/transformed/firebase-messaging-ktx-23.0.2/AndroidManifest.xml:26:9-32:19
+MERGED from [com.google.firebase:firebase-messaging-ktx:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/9d658b4c9f69cc630a974722a31171e2/transformed/firebase-messaging-ktx-23.0.2/AndroidManifest.xml:26:9-32:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/bd4e2377bdf5edd93a2e81104f3efeaf/transformed/firebase-messaging-23.0.2/AndroidManifest.xml:52:9-58:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/bd4e2377bdf5edd93a2e81104f3efeaf/transformed/firebase-messaging-23.0.2/AndroidManifest.xml:52:9-58:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/f8a1e1bf779b80e4eba5cb9b8876eb0f/transformed/firebase-analytics-ktx-20.1.2/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/f8a1e1bf779b80e4eba5cb9b8876eb0f/transformed/firebase-analytics-ktx-20.1.2/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/e2b736a02672b6cf97ab1f117b8882a2/transformed/firebase-common-ktx-20.1.0/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/e2b736a02672b6cf97ab1f117b8882a2/transformed/firebase-common-ktx-20.1.0/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/d0335605765cea45dd9f712b54f9bc49/transformed/play-services-measurement-api-20.1.2/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/d0335605765cea45dd9f712b54f9bc49/transformed/play-services-measurement-api-20.1.2/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.1] /Users/talhahthokan/.gradle/caches/transforms-3/7a83598d4ef003835df0b537eae27dc8/transformed/firebase-datatransport-18.1.1/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.1] /Users/talhahthokan/.gradle/caches/transforms-3/7a83598d4ef003835df0b537eae27dc8/transformed/firebase-datatransport-18.1.1/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/23ea11a03dcf3936206e9ead6097fa2d/transformed/firebase-installations-17.0.1/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/23ea11a03dcf3936206e9ead6097fa2d/transformed/firebase-installations-17.0.1/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/69a9a84caa8fb744c8651979963118fe/transformed/firebase-common-20.1.0/AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/69a9a84caa8fb744c8651979963118fe/transformed/firebase-common-20.1.0/AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth-ktx:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/16870093591d0e127708c223a033822a/transformed/firebase-auth-ktx-21.0.3/AndroidManifest.xml:10:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/69a9a84caa8fb744c8651979963118fe/transformed/firebase-common-20.1.0/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/69a9a84caa8fb744c8651979963118fe/transformed/firebase-common-20.1.0/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/16870093591d0e127708c223a033822a/transformed/firebase-auth-ktx-21.0.3/AndroidManifest.xml:9:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthKtxRegistrar
+ADDED from [com.google.firebase:firebase-auth-ktx:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/16870093591d0e127708c223a033822a/transformed/firebase-auth-ktx-21.0.3/AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth-ktx:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/16870093591d0e127708c223a033822a/transformed/firebase-auth-ktx-21.0.3/AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/16870093591d0e127708c223a033822a/transformed/firebase-auth-ktx-21.0.3/AndroidManifest.xml:12:17-116
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:51:13-61:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:67:13-69:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:69:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] /Users/talhahthokan/.gradle/caches/transforms-3/d3628b89027c240cbdc88718d853a3fe/transformed/firebase-auth-21.0.3/AndroidManifest.xml:68:17-109
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/8c861836347430e458f6139fd6f63c9f/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/8c861836347430e458f6139fd6f63c9f/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/8c861836347430e458f6139fd6f63c9f/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/8c861836347430e458f6139fd6f63c9f/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/8c861836347430e458f6139fd6f63c9f/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/8c861836347430e458f6139fd6f63c9f/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/talhahthokan/.gradle/caches/transforms-3/2318efee841753600a0c626386f2fa0c/transformed/play-services-auth-20.2.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/talhahthokan/.gradle/caches/transforms-3/2318efee841753600a0c626386f2fa0c/transformed/play-services-auth-20.2.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/talhahthokan/.gradle/caches/transforms-3/2318efee841753600a0c626386f2fa0c/transformed/play-services-auth-20.2.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/talhahthokan/.gradle/caches/transforms-3/2318efee841753600a0c626386f2fa0c/transformed/play-services-auth-20.2.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/talhahthokan/.gradle/caches/transforms-3/2318efee841753600a0c626386f2fa0c/transformed/play-services-auth-20.2.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/talhahthokan/.gradle/caches/transforms-3/2318efee841753600a0c626386f2fa0c/transformed/play-services-auth-20.2.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/talhahthokan/.gradle/caches/transforms-3/2318efee841753600a0c626386f2fa0c/transformed/play-services-auth-20.2.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/talhahthokan/.gradle/caches/transforms-3/2318efee841753600a0c626386f2fa0c/transformed/play-services-auth-20.2.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/talhahthokan/.gradle/caches/transforms-3/2318efee841753600a0c626386f2fa0c/transformed/play-services-auth-20.2.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/talhahthokan/.gradle/caches/transforms-3/2318efee841753600a0c626386f2fa0c/transformed/play-services-auth-20.2.0/AndroidManifest.xml:34:13-89
+meta-data#com.google.firebase.components:com.google.firebase.storage.ktx.FirebaseStorageKtxRegistrar
+ADDED from [com.google.firebase:firebase-storage-ktx:20.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/a9392a8a633728c6935d50a873aa5e41/transformed/firebase-storage-ktx-20.0.1/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage-ktx:20.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/a9392a8a633728c6935d50a873aa5e41/transformed/firebase-storage-ktx-20.0.1/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage-ktx:20.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/a9392a8a633728c6935d50a873aa5e41/transformed/firebase-storage-ktx-20.0.1/AndroidManifest.xml:16:17-122
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:20.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/608c478d6aba58325c1ab0f8cbe47f3a/transformed/firebase-storage-20.0.1/AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:20.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/608c478d6aba58325c1ab0f8cbe47f3a/transformed/firebase-storage-20.0.1/AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/608c478d6aba58325c1ab0f8cbe47f3a/transformed/firebase-storage-20.0.1/AndroidManifest.xml:34:17-107
+meta-data#com.google.firebase.components:com.google.firebase.firestore.ktx.FirebaseFirestoreKtxRegistrar
+ADDED from [com.google.firebase:firebase-firestore-ktx:24.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/2d79bf37119ddda995c7e03f9aeeb125/transformed/firebase-firestore-ktx-24.1.0/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore-ktx:24.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/2d79bf37119ddda995c7e03f9aeeb125/transformed/firebase-firestore-ktx-24.1.0/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore-ktx:24.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/2d79bf37119ddda995c7e03f9aeeb125/transformed/firebase-firestore-ktx-24.1.0/AndroidManifest.xml:16:17-126
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/2740f66239595b68fc45b0e35ce405ee/transformed/firebase-firestore-24.1.0/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/2740f66239595b68fc45b0e35ce405ee/transformed/firebase-firestore-24.1.0/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/2740f66239595b68fc45b0e35ce405ee/transformed/firebase-firestore-24.1.0/AndroidManifest.xml:21:17-111
+meta-data#com.google.firebase.components:com.google.firebase.messaging.ktx.FirebaseMessagingKtxRegistrar
+ADDED from [com.google.firebase:firebase-messaging-ktx:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/9d658b4c9f69cc630a974722a31171e2/transformed/firebase-messaging-ktx-23.0.2/AndroidManifest.xml:29:13-31:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging-ktx:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/9d658b4c9f69cc630a974722a31171e2/transformed/firebase-messaging-ktx-23.0.2/AndroidManifest.xml:31:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging-ktx:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/9d658b4c9f69cc630a974722a31171e2/transformed/firebase-messaging-ktx-23.0.2/AndroidManifest.xml:30:17-126
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-messaging:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/bd4e2377bdf5edd93a2e81104f3efeaf/transformed/firebase-messaging-23.0.2/AndroidManifest.xml:26:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/d0335605765cea45dd9f712b54f9bc49/transformed/play-services-measurement-api-20.1.2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/d0335605765cea45dd9f712b54f9bc49/transformed/play-services-measurement-api-20.1.2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/62485a4e42cc3e7e223062f9d51fba8b/transformed/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/62485a4e42cc3e7e223062f9d51fba8b/transformed/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-measurement:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91a1a6a3fa3f3f34821f2872866df4b0/transformed/play-services-measurement-20.1.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91a1a6a3fa3f3f34821f2872866df4b0/transformed/play-services-measurement-20.1.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/ecd4b30ea6b2908664e46d195ee70171/transformed/play-services-measurement-impl-20.1.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/ecd4b30ea6b2908664e46d195ee70171/transformed/play-services-measurement-impl-20.1.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91115c50b897a43929fe217777296b61/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91115c50b897a43929fe217777296b61/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/bd4e2377bdf5edd93a2e81104f3efeaf/transformed/firebase-messaging-23.0.2/AndroidManifest.xml:26:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/bd4e2377bdf5edd93a2e81104f3efeaf/transformed/firebase-messaging-23.0.2/AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/62485a4e42cc3e7e223062f9d51fba8b/transformed/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/62485a4e42cc3e7e223062f9d51fba8b/transformed/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/bd4e2377bdf5edd93a2e81104f3efeaf/transformed/firebase-messaging-23.0.2/AndroidManifest.xml:28:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/bd4e2377bdf5edd93a2e81104f3efeaf/transformed/firebase-messaging-23.0.2/AndroidManifest.xml:31:9-38:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/bd4e2377bdf5edd93a2e81104f3efeaf/transformed/firebase-messaging-23.0.2/AndroidManifest.xml:33:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/bd4e2377bdf5edd93a2e81104f3efeaf/transformed/firebase-messaging-23.0.2/AndroidManifest.xml:34:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/bd4e2377bdf5edd93a2e81104f3efeaf/transformed/firebase-messaging-23.0.2/AndroidManifest.xml:32:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/bd4e2377bdf5edd93a2e81104f3efeaf/transformed/firebase-messaging-23.0.2/AndroidManifest.xml:35:13-37:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/bd4e2377bdf5edd93a2e81104f3efeaf/transformed/firebase-messaging-23.0.2/AndroidManifest.xml:36:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/bd4e2377bdf5edd93a2e81104f3efeaf/transformed/firebase-messaging-23.0.2/AndroidManifest.xml:36:25-78
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/bd4e2377bdf5edd93a2e81104f3efeaf/transformed/firebase-messaging-23.0.2/AndroidManifest.xml:44:9-51:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/bd4e2377bdf5edd93a2e81104f3efeaf/transformed/firebase-messaging-23.0.2/AndroidManifest.xml:47:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/bd4e2377bdf5edd93a2e81104f3efeaf/transformed/firebase-messaging-23.0.2/AndroidManifest.xml:46:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/bd4e2377bdf5edd93a2e81104f3efeaf/transformed/firebase-messaging-23.0.2/AndroidManifest.xml:45:13-82
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/bd4e2377bdf5edd93a2e81104f3efeaf/transformed/firebase-messaging-23.0.2/AndroidManifest.xml:55:13-57:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/bd4e2377bdf5edd93a2e81104f3efeaf/transformed/firebase-messaging-23.0.2/AndroidManifest.xml:57:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.2] /Users/talhahthokan/.gradle/caches/transforms-3/bd4e2377bdf5edd93a2e81104f3efeaf/transformed/firebase-messaging-23.0.2/AndroidManifest.xml:56:17-119
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/e6666944505d55d98511180b2581a4ef/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/e6666944505d55d98511180b2581a4ef/transformed/play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/e6666944505d55d98511180b2581a4ef/transformed/play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/e6666944505d55d98511180b2581a4ef/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+meta-data#com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar
+ADDED from [com.google.firebase:firebase-analytics-ktx:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/f8a1e1bf779b80e4eba5cb9b8876eb0f/transformed/firebase-analytics-ktx-20.1.2/AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-analytics-ktx:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/f8a1e1bf779b80e4eba5cb9b8876eb0f/transformed/firebase-analytics-ktx-20.1.2/AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics-ktx:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/f8a1e1bf779b80e4eba5cb9b8876eb0f/transformed/firebase-analytics-ktx-20.1.2/AndroidManifest.xml:12:17-126
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/e2b736a02672b6cf97ab1f117b8882a2/transformed/firebase-common-ktx-20.1.0/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/e2b736a02672b6cf97ab1f117b8882a2/transformed/firebase-common-ktx-20.1.0/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/e2b736a02672b6cf97ab1f117b8882a2/transformed/firebase-common-ktx-20.1.0/AndroidManifest.xml:16:17-113
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/d0335605765cea45dd9f712b54f9bc49/transformed/play-services-measurement-api-20.1.2/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/ecd4b30ea6b2908664e46d195ee70171/transformed/play-services-measurement-impl-20.1.2/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/ecd4b30ea6b2908664e46d195ee70171/transformed/play-services-measurement-impl-20.1.2/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/db19901a93729957146fa078aaaf0b73/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/db19901a93729957146fa078aaaf0b73/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91115c50b897a43929fe217777296b61/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91115c50b897a43929fe217777296b61/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/d0335605765cea45dd9f712b54f9bc49/transformed/play-services-measurement-api-20.1.2/AndroidManifest.xml:25:22-76
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/d0335605765cea45dd9f712b54f9bc49/transformed/play-services-measurement-api-20.1.2/AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/d0335605765cea45dd9f712b54f9bc49/transformed/play-services-measurement-api-20.1.2/AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/d0335605765cea45dd9f712b54f9bc49/transformed/play-services-measurement-api-20.1.2/AndroidManifest.xml:32:17-139
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.1.1] /Users/talhahthokan/.gradle/caches/transforms-3/7a83598d4ef003835df0b537eae27dc8/transformed/firebase-datatransport-18.1.1/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.1] /Users/talhahthokan/.gradle/caches/transforms-3/7a83598d4ef003835df0b537eae27dc8/transformed/firebase-datatransport-18.1.1/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.1] /Users/talhahthokan/.gradle/caches/transforms-3/7a83598d4ef003835df0b537eae27dc8/transformed/firebase-datatransport-18.1.1/AndroidManifest.xml:29:17-115
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/23ea11a03dcf3936206e9ead6097fa2d/transformed/firebase-installations-17.0.1/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/23ea11a03dcf3936206e9ead6097fa2d/transformed/firebase-installations-17.0.1/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] /Users/talhahthokan/.gradle/caches/transforms-3/23ea11a03dcf3936206e9ead6097fa2d/transformed/firebase-installations-17.0.1/AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/69a9a84caa8fb744c8651979963118fe/transformed/firebase-common-20.1.0/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/69a9a84caa8fb744c8651979963118fe/transformed/firebase-common-20.1.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/69a9a84caa8fb744c8651979963118fe/transformed/firebase-common-20.1.0/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/69a9a84caa8fb744c8651979963118fe/transformed/firebase-common-20.1.0/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/69a9a84caa8fb744c8651979963118fe/transformed/firebase-common-20.1.0/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.1.0] /Users/talhahthokan/.gradle/caches/transforms-3/69a9a84caa8fb744c8651979963118fe/transformed/firebase-common-20.1.0/AndroidManifest.xml:27:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91a1a6a3fa3f3f34821f2872866df4b0/transformed/play-services-measurement-20.1.2/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/ecd4b30ea6b2908664e46d195ee70171/transformed/play-services-measurement-impl-20.1.2/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/ecd4b30ea6b2908664e46d195ee70171/transformed/play-services-measurement-impl-20.1.2/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91a1a6a3fa3f3f34821f2872866df4b0/transformed/play-services-measurement-20.1.2/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91a1a6a3fa3f3f34821f2872866df4b0/transformed/play-services-measurement-20.1.2/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91a1a6a3fa3f3f34821f2872866df4b0/transformed/play-services-measurement-20.1.2/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91a1a6a3fa3f3f34821f2872866df4b0/transformed/play-services-measurement-20.1.2/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91a1a6a3fa3f3f34821f2872866df4b0/transformed/play-services-measurement-20.1.2/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91a1a6a3fa3f3f34821f2872866df4b0/transformed/play-services-measurement-20.1.2/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91a1a6a3fa3f3f34821f2872866df4b0/transformed/play-services-measurement-20.1.2/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91a1a6a3fa3f3f34821f2872866df4b0/transformed/play-services-measurement-20.1.2/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91a1a6a3fa3f3f34821f2872866df4b0/transformed/play-services-measurement-20.1.2/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91a1a6a3fa3f3f34821f2872866df4b0/transformed/play-services-measurement-20.1.2/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91a1a6a3fa3f3f34821f2872866df4b0/transformed/play-services-measurement-20.1.2/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91a1a6a3fa3f3f34821f2872866df4b0/transformed/play-services-measurement-20.1.2/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91a1a6a3fa3f3f34821f2872866df4b0/transformed/play-services-measurement-20.1.2/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:20.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/91a1a6a3fa3f3f34821f2872866df4b0/transformed/play-services-measurement-20.1.2/AndroidManifest.xml:40:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/9f06110c51463f2bf151c8d1a9ff8816/transformed/play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/9f06110c51463f2bf151c8d1a9ff8816/transformed/play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/9f06110c51463f2bf151c8d1a9ff8816/transformed/play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/3f2f22223eb254b84769f79d70c96a78/transformed/transport-backend-cct-3.1.2/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/c236724b5ce594f965568cfb43a67846/transformed/transport-runtime-3.1.2/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/c236724b5ce594f965568cfb43a67846/transformed/transport-runtime-3.1.2/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/3f2f22223eb254b84769f79d70c96a78/transformed/transport-backend-cct-3.1.2/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/3f2f22223eb254b84769f79d70c96a78/transformed/transport-backend-cct-3.1.2/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/3f2f22223eb254b84769f79d70c96a78/transformed/transport-backend-cct-3.1.2/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/3f2f22223eb254b84769f79d70c96a78/transformed/transport-backend-cct-3.1.2/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/3f2f22223eb254b84769f79d70c96a78/transformed/transport-backend-cct-3.1.2/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/c236724b5ce594f965568cfb43a67846/transformed/transport-runtime-3.1.2/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/c236724b5ce594f965568cfb43a67846/transformed/transport-runtime-3.1.2/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/c236724b5ce594f965568cfb43a67846/transformed/transport-runtime-3.1.2/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/c236724b5ce594f965568cfb43a67846/transformed/transport-runtime-3.1.2/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/c236724b5ce594f965568cfb43a67846/transformed/transport-runtime-3.1.2/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/c236724b5ce594f965568cfb43a67846/transformed/transport-runtime-3.1.2/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.2] /Users/talhahthokan/.gradle/caches/transforms-3/c236724b5ce594f965568cfb43a67846/transformed/transport-runtime-3.1.2/AndroidManifest.xml:33:13-132
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/feaf8a4dfcffd5a6fe452e4926be1756/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/talhahthokan/.gradle/caches/transforms-3/679cda644df80ead3d8adc8fa2366496/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/talhahthokan/.gradle/caches/transforms-3/679cda644df80ead3d8adc8fa2366496/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/eff2b89b3291381e8561c8012dceaeab/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/eff2b89b3291381e8561c8012dceaeab/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/feaf8a4dfcffd5a6fe452e4926be1756/transformed/emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/feaf8a4dfcffd5a6fe452e4926be1756/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/feaf8a4dfcffd5a6fe452e4926be1756/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/feaf8a4dfcffd5a6fe452e4926be1756/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/feaf8a4dfcffd5a6fe452e4926be1756/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/feaf8a4dfcffd5a6fe452e4926be1756/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/talhahthokan/.gradle/caches/transforms-3/feaf8a4dfcffd5a6fe452e4926be1756/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/talhahthokan/.gradle/caches/transforms-3/679cda644df80ead3d8adc8fa2366496/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/talhahthokan/.gradle/caches/transforms-3/679cda644df80ead3d8adc8fa2366496/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/talhahthokan/.gradle/caches/transforms-3/679cda644df80ead3d8adc8fa2366496/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78

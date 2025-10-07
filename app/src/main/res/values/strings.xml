@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MedAssist</string>
+    <string name="welcome_message">Welcome to MedAssist</string>
+    <string name="sign_in_google">Sign in with Google</string>
+    <string name="continue_guest">Continue as Guest</string>
+    <string name="healthcare_companion">Your Healthcare Companion</string>
+    <string name="version">Version 1.0</string>
+    <string name="login_success">Login successful!</string>
+    <string name="login_error">Login failed. Please try again.</string>
+</resources>
