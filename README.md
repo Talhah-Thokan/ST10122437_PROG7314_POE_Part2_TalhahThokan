@@ -335,46 +335,6 @@ app/
 - Check Firestore rules allow read access
 - Check internet connection
 
-#### **"Build failed"**
-- Clean project: `./gradlew clean`
-- Invalidate caches: Android Studio → File → Invalidate Caches
-- Ensure JDK 11 is configured
-
----
-
-## 🎓 Academic Context
-
-### **POE Requirements Met**
-
-| Criterion | Implementation | Score |
-|-----------|---------------|-------|
-| **REST API Integration** | Firebase Firestore (alternative) | 7/10 |
-| **User Feature 1** | Doctor search & booking | 9/10 |
-| **User Feature 2** | Health articles system | 9/10 |
-| **User Feature 3** | Settings & preferences | 9/10 |
-| **User Interface** | Modern Material UI, SA localization | 9/10 |
-| **GitHub/Testing** | 10 commits, unit tests, CI/CD | 9/10 |
-| **Demo Video** | To be created | 0/5 |
-| **TOTAL** | | **80-91%** |
-
-**With demo video: 82-100% (Distinction)**
-
----
-
-## 🎬 Demo Video (To Be Added)
-
-**To create your demo video, show:**
-1. ✅ Google Sign-In with Firebase Console verification
-2. ✅ Guest login flow
-3. ✅ Articles tab with SA health content
-4. ✅ Doctor search functionality (search "pediatrician")
-5. ✅ Complete booking flow with Dr. Thabo Mokoena
-6. ✅ Firestore Console showing collections
-7. ✅ Settings with theme toggle
-8. ✅ GitHub repository and CI/CD
-9. ✅ Quick code walkthrough in Android Studio
-
-**Upload to YouTube (unlisted) and add link above.**
 
 ---
 
@@ -402,7 +362,7 @@ This project is created for educational purposes as part of a BCAD module. All r
 **Student:** Talhah Thokan  
 **Student ID:** ST10122437  
 **Module:** PROG7314 - Advanced Programming  
-**Institution:** Boston College of Arts & Design (BCAD)  
+**Institution:** IIE Varsity College Sandton
 **Year:** 2025  
 **Semester:** 2  
 
@@ -426,6 +386,5 @@ For issues or questions about this project:
 
 ---
 
-**Built with ❤️ for better healthcare accessibility in South Africa** 🇿🇦
 
 *Last Updated: October 7, 2025*
