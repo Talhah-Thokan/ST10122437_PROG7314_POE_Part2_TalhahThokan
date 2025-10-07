@@ -7,14 +7,6 @@
 
 **MedAssist** is a comprehensive mobile healthcare application designed for South African users, providing seamless access to health articles, doctor bookings, and medical information. Built as a final POE project for BCAD PROG7314.
 
----
-
-## 🇿🇦 South African Features
-
-- **ZAR Currency** - All pricing in South African Rand (R650-R1,450)
-- **Local Doctors** - 8 South African doctors at real Johannesburg hospitals
-- **SA Healthcare Content** - Articles about SADAG, medical aids (Discovery, Momentum), diabetes management
-- **JHB Locations** - Sandton Medical Centre, Life Healthcare Rosebank, Netcare Milpark, Charlotte Maxeke, etc.
 
 ---
 
