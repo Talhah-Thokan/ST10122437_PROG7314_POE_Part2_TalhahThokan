@@ -31,6 +31,9 @@ class BookingsFragment : Fragment() {
     private lateinit var bookingsRecyclerView: RecyclerView
     private lateinit var doctorsAdapter: DoctorsAdapter
     private lateinit var bookingsAdapter: BookingsAdapter
+    private lateinit var firebaseRepository: FirebaseRepository
+    
+    private var allDoctors: List<Doctor> = emptyList()
     
     companion object {
         private const val TAG = "BookingsFragment"
@@ -43,9 +46,12 @@ class BookingsFragment : Fragment() {
     ): View? {
         val view = inflater.inflate(R.layout.fragment_bookings, container, false)
         
+        firebaseRepository = FirebaseRepository()
+        
         setupViews(view)
         setupClickListeners()
         setupRecyclerViews()
+        loadDoctorsFromFirebase()
         
         Log.d(TAG, "BookingsFragment created")
         
@@ -96,63 +102,130 @@ class BookingsFragment : Fragment() {
         bookingsRecyclerView.adapter = bookingsAdapter
     }
     
+    private fun loadDoctorsFromFirebase() {
+        CoroutineScope(Dispatchers.Main).launch {
+            try {
+                val result = firebaseRepository.getDoctors()
+                result.onSuccess { doctors ->
+                    // Convert API doctors to UI doctors
+                    allDoctors = doctors.map { apiDoctor ->
+                        Doctor(
+                            id = apiDoctor.id,
+                            name = apiDoctor.name,
+                            specialty = apiDoctor.specialty,
+                            rating = apiDoctor.rating,
+                            distance = apiDoctor.experience, // Using experience field for distance
+                            experience = apiDoctor.experience,
+                            price = apiDoctor.price,
+                            availability = apiDoctor.availability
+                        )
+                    }
+                    
+                    // Update adapter with all doctors
+                    doctorsAdapter.updateDoctors(allDoctors)
+                    Log.d(TAG, "Loaded ${allDoctors.size} doctors from Firebase")
+                }.onFailure { exception ->
+                    Log.e(TAG, "Failed to load doctors from Firebase", exception)
+                    // Fallback to sample doctors
+                    allDoctors = getSampleDoctors()
+                    doctorsAdapter.updateDoctors(allDoctors)
+                }
+            } catch (e: Exception) {
+                Log.e(TAG, "Error loading doctors", e)
+                allDoctors = getSampleDoctors()
+                doctorsAdapter.updateDoctors(allDoctors)
+            }
+        }
+    }
+    
     private fun searchDoctors(query: String) {
-        Toast.makeText(context, "Searching for: $query", Toast.LENGTH_SHORT).show()
-        // TODO: Implement actual API call to /providers endpoint
-        // For now, we'll just show a message
+        val queryLower = query.lowercase().trim()
+        
+        if (queryLower.isEmpty()) {
+            // Show all doctors if search is empty
+            doctorsAdapter.updateDoctors(allDoctors)
+            return
+        }
+        
+        // Filter doctors by name, specialty, or any text match
+        val filteredDoctors = allDoctors.filter { doctor ->
+            doctor.name.lowercase().contains(queryLower) ||
+            doctor.specialty.lowercase().contains(queryLower) ||
+            doctor.experience.lowercase().contains(queryLower) ||
+            doctor.availability.lowercase().contains(queryLower)
+        }
+        
+        if (filteredDoctors.isEmpty()) {
+            Toast.makeText(context, "No doctors found for '$query'", Toast.LENGTH_SHORT).show()
+        } else {
+            Toast.makeText(context, "Found ${filteredDoctors.size} doctor(s)", Toast.LENGTH_SHORT).show()
+        }
+        
+        doctorsAdapter.updateDoctors(filteredDoctors)
+        Log.d(TAG, "Search for '$query' returned ${filteredDoctors.size} results")
     }
     
     private fun getSampleDoctors(): List<Doctor> {
         return listOf(
             Doctor(
                 "1",
-                "Dr. Sarah Johnson",
-                "Cardiologist",
-                "4.8",
-                "2.1 km away",
-                "15+ years experience",
-                "$150 per visit",
+                "Dr. Thabo Mokoena",
+                "General Practitioner",
+                "4.9",
+                "1.2 km away",
+                "12 years experience",
+                "R650 per consultation",
                 "Available today"
             ),
             Doctor(
                 "2",
-                "Dr. Michael Chen",
-                "General Practitioner",
-                "4.9",
-                "0.8 km away",
-                "12+ years experience",
-                "$120 per visit",
+                "Dr. Zanele Khumalo",
+                "Cardiologist",
+                "4.8",
+                "3.5 km away",
+                "18 years experience",
+                "R1,250 per consultation",
                 "Available tomorrow"
             ),
             Doctor(
                 "3",
-                "Dr. Emily Rodriguez",
-                "Dermatologist",
-                "4.7",
-                "3.2 km away",
-                "8+ years experience",
-                "$180 per visit",
-                "Available next week"
-            ),
-            Doctor(
-                "4",
-                "Dr. James Wilson",
-                "Orthopedist",
-                "4.6",
-                "1.5 km away",
-                "20+ years experience",
-                "$200 per visit",
+                "Dr. Sipho Dlamini",
+                "Pediatrician",
+                "4.9",
+                "2.1 km away",
+                "15 years experience",
+                "R850 per consultation",
                 "Available today"
             ),
             Doctor(
+                "4",
+                "Dr. Lerato Ndlovu",
+                "Dermatologist",
+                "4.7",
+                "4.8 km away",
+                "10 years experience",
+                "R950 per consultation",
+                "Available next week"
+            ),
+            Doctor(
                 "5",
-                "Dr. Lisa Thompson",
-                "Pediatrician",
-                "4.9",
-                "2.8 km away",
-                "10+ years experience",
-                "$130 per visit",
+                "Dr. Mandla Mbatha",
+                "Orthopedic Surgeon",
+                "4.8",
+                "5.2 km away",
+                "22 years experience",
+                "R1,450 per consultation",
                 "Available tomorrow"
+            ),
+            Doctor(
+                "6",
+                "Dr. Nomvula Nkosi",
+                "Psychiatrist",
+                "4.9",
+                "2.7 km away",
+                "14 years experience",
+                "R1,100 per session",
+                "Available today"
             )
         )
     }
@@ -161,17 +234,17 @@ class BookingsFragment : Fragment() {
         return listOf(
             Booking(
                 "1",
-                "Dr. Sarah Johnson",
-                "Cardiologist",
-                "2025-01-20",
+                "Dr. Thabo Mokoena",
+                "General Practitioner",
+                "2025-10-15",
                 "10:00 AM",
                 "Confirmed"
             ),
             Booking(
                 "2",
-                "Dr. Michael Chen",
-                "General Practitioner",
-                "2025-01-22",
+                "Dr. Sipho Dlamini",
+                "Pediatrician",
+                "2025-10-18",
                 "2:30 PM",
                 "Pending"
             )
@@ -212,7 +285,7 @@ data class Booking(
  * Adapter for doctors RecyclerView
  */
 class DoctorsAdapter(
-    private val doctors: List<Doctor>,
+    private var doctors: List<Doctor>,
     private val onItemClick: (Doctor) -> Unit
 ) : RecyclerView.Adapter<DoctorsAdapter.ViewHolder>() {
     
@@ -248,6 +321,14 @@ class DoctorsAdapter(
     }
     
     override fun getItemCount(): Int = doctors.size
+    
+    /**
+     * Update the list of doctors and refresh the RecyclerView
+     */
+    fun updateDoctors(newDoctors: List<Doctor>) {
+        doctors = newDoctors
+        notifyDataSetChanged()
+    }
 }
 
 /**

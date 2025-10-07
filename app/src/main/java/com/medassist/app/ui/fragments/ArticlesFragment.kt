@@ -87,55 +87,55 @@ class ArticlesFragment : Fragment() {
         articlesRecyclerView.adapter = articlesAdapter
     }
     
-    private fun getSampleArticles(): List<ApiArticle> {
-        return listOf(
-            ApiArticle(
-                id = "1",
-                title = "5 Essential Tips for Better Sleep",
-                author = "Dr. Sarah Johnson",
-                summary = "Sleep is crucial for overall health and well-being. Learn these proven techniques to improve your sleep quality...",
-                content = "Learn essential techniques to improve your sleep quality and overall health. This comprehensive guide covers everything from sleep hygiene to relaxation techniques that can help you get the rest you need.",
-                imageUrl = "https://via.placeholder.com/300x200/008B8B/FFFFFF?text=Sleep+Tips",
-                date = "2025-01-15"
-            ),
-            ApiArticle(
-                id = "2",
-                title = "Understanding Heart Health",
-                author = "Dr. Michael Chen",
-                summary = "Your heart is your most important muscle. Discover the key factors that contribute to cardiovascular health...",
-                content = "Everything you need to know about maintaining a healthy heart and preventing cardiovascular diseases. This article covers diet, exercise, and lifestyle changes that can significantly improve your heart health.",
-                imageUrl = "https://via.placeholder.com/300x200/20B2AA/FFFFFF?text=Heart+Health",
-                date = "2025-01-14"
-            ),
-            ApiArticle(
-                id = "3",
-                title = "Mental Health and Wellness",
-                author = "Dr. Emily Rodriguez",
-                summary = "Mental health is just as important as physical health. Explore practical strategies for managing stress...",
-                content = "Practical strategies for managing stress and maintaining good mental health. Learn about mindfulness, meditation, and other techniques that can help you maintain emotional well-being.",
-                imageUrl = "https://via.placeholder.com/300x200/006666/FFFFFF?text=Mental+Health",
-                date = "2025-01-13"
-            ),
-            ApiArticle(
-                id = "4",
-                title = "Nutrition for Active Living",
-                author = "Dr. James Wilson",
-                summary = "Fuel your body with the right nutrients to support an active lifestyle. Discover the best foods...",
-                content = "Discover the best foods to fuel your active lifestyle and maintain optimal health. This guide covers macronutrients, micronutrients, and meal planning strategies.",
-                imageUrl = "https://via.placeholder.com/300x200/008B8B/FFFFFF?text=Nutrition",
-                date = "2025-01-12"
-            ),
-            ApiArticle(
-                id = "5",
-                title = "Preventing Common Cold",
-                author = "Dr. Lisa Thompson",
-                summary = "Boost your immunity and avoid seasonal illnesses with these simple but effective prevention strategies...",
-                content = "Simple steps to boost your immunity and avoid seasonal illnesses. Learn about vitamins, hygiene practices, and lifestyle changes that can help you stay healthy year-round.",
-                imageUrl = "https://via.placeholder.com/300x200/20B2AA/FFFFFF?text=Cold+Prevention",
-                date = "2025-01-11"
-            )
-        )
-    }
+            private fun getSampleArticles(): List<ApiArticle> {
+                return listOf(
+                    ApiArticle(
+                        id = "1",
+                        title = "Managing Diabetes in South Africa: A Comprehensive Guide",
+                        author = "Dr. Thabo Ndlovu",
+                        summary = "With diabetes on the rise in SA, learn how to manage your blood sugar levels and live a healthy life.",
+                        content = "Diabetes is a growing concern in South Africa, affecting millions of people. This comprehensive guide covers blood sugar management, dietary recommendations tailored to South African cuisine, exercise tips, and how to access affordable medication through public healthcare. Learn about the latest diabetes management techniques available at local clinics and hospitals.",
+                        imageUrl = "https://via.placeholder.com/400x250/008B8B/FFFFFF?text=MedAssist+Health",
+                        date = "2025-10-05"
+                    ),
+                    ApiArticle(
+                        id = "2",
+                        title = "Winter Health Tips for South Africans",
+                        author = "Dr. Zanele Khumalo",
+                        summary = "Stay healthy this winter with practical tips for preventing flu, colds, and other seasonal illnesses.",
+                        content = "As winter approaches in South Africa, it's important to protect yourself from seasonal illnesses. This article covers vaccination schedules, immune-boosting foods available in local markets, proper layering for cold mornings, and when to visit your local clinic. Learn about free flu vaccinations available at public health facilities.",
+                        imageUrl = "https://via.placeholder.com/400x250/20B2AA/FFFFFF?text=MedAssist+Health",
+                        date = "2025-10-02"
+                    ),
+                    ApiArticle(
+                        id = "3",
+                        title = "Mental Health Resources in South Africa",
+                        author = "Dr. Sipho Mkhize",
+                        summary = "Mental health matters. Discover free and affordable mental health resources available across South Africa.",
+                        content = "Mental health is a priority, and South Africa offers various support systems. This guide covers SADAG (South African Depression and Anxiety Group), community health centers, online counseling services, and how to access mental health care through medical aid schemes. Learn about free helplines and support groups in your area.",
+                        imageUrl = "https://via.placeholder.com/400x250/006666/FFFFFF?text=MedAssist+Health",
+                        date = "2025-09-28"
+                    ),
+                    ApiArticle(
+                        id = "4",
+                        title = "Understanding Medical Aid Schemes in South Africa",
+                        author = "Dr. Lerato Mokoena",
+                        summary = "Navigate the complex world of medical aids and choose the right plan for you and your family.",
+                        content = "Choosing the right medical aid in South Africa can be overwhelming. This article breaks down the differences between schemes like Discovery, Momentum, Bonitas, and Medihelp. Learn about PMBs (Prescribed Minimum Benefits), hospital plans vs comprehensive plans, and how to maximize your benefits. Includes tips for those without medical aid on accessing quality healthcare.",
+                        imageUrl = "https://via.placeholder.com/400x250/008B8B/FFFFFF?text=MedAssist+Health",
+                        date = "2025-09-25"
+                    ),
+                    ApiArticle(
+                        id = "5",
+                        title = "Healthy Eating on a Budget in South Africa",
+                        author = "Dr. Nomvula Dlamini",
+                        summary = "Nutritious meals don't have to be expensive. Learn how to eat healthy with affordable South African ingredients.",
+                        content = "Eating healthy is possible even on a tight budget in South Africa. This guide covers affordable nutritious foods available at local markets, meal planning with staples like pap, beans, and seasonal vegetables, and budget-friendly protein sources. Learn how to create balanced meals for under R50 per person and discover community feeding programs and food gardens.",
+                        imageUrl = "https://via.placeholder.com/400x250/20B2AA/FFFFFF?text=MedAssist+Health",
+                        date = "2025-09-20"
+                    )
+                )
+            }
 }
 
 /**
