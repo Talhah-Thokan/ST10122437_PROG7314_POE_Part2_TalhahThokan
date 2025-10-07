@@ -80,21 +80,14 @@ jobs:
       run: chmod +x gradlew
 
     - name: Run unit tests with coverage
-      run: ./gradlew test jacocoTestReport
+      run: ./gradlew test --continue
 
     - name: Upload test results
       uses: actions/upload-artifact@v4
       if: always()
       with:
         name: test-results
-        path: app/build/reports/tests/
-
-    - name: Upload coverage reports
-      uses: actions/upload-artifact@v4
-      if: always()
-      with:
-        name: coverage-reports
-        path: app/build/reports/jacoco/
+        path: app/build/test-results/
 
   quality-check:
     runs-on: ubuntu-latest
